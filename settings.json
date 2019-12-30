@@ -1,4 +1,5 @@
 {
+    "git.detectSubmodules": false,
     "terminal.integrated.scrollback": 9999,
     "window.restoreWindows": "all",
     "window.zoomLevel": 2,
