@@ -1,4 +1,5 @@
 {
+    "editor.autoClosingQuotes": "never",
     "git.detectSubmodules": false,
     "shellcheck.enable": true,
     "shellcheck.enableQuickFix": true,
