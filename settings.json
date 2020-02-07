@@ -1,5 +1,10 @@
 {
     "git.detectSubmodules": false,
+    "shellcheck.enable": true,
+    "shellcheck.enableQuickFix": true,
+    "shellcheck.executablePath": "shellcheck",
+    "shellcheck.run": "onSave",
+    "shellcheck.useWSL": false,
     "terminal.integrated.scrollback": 9999,
     "window.restoreWindows": "all",
     "window.zoomLevel": 2,
