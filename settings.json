@@ -1,6 +1,8 @@
 {
     "editor.autoClosingQuotes": "never",
     "git.detectSubmodules": false,
+    "python.formatting.provider": "black",
+    "python.linting.flake8Enabled": true,
     "shellcheck.enable": true,
     "shellcheck.enableQuickFix": true,
     "shellcheck.executablePath": "shellcheck",
