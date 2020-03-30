@@ -1,5 +1,6 @@
 {
     "editor.autoClosingQuotes": "never",
+    "editor.columnSelection": false,
     "git.detectSubmodules": false,
     "python.formatting.provider": "black",
     "python.linting.flake8Enabled": true,
