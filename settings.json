@@ -11,7 +11,7 @@
     "shellcheck.useWSL": false,
     "terminal.integrated.scrollback": 9999,
     "window.restoreWindows": "all",
-    "window.zoomLevel": 2,
+    "window.zoomLevel": 1.5,
     "workbench.startupEditor": "none",
     "workbench.colorTheme": "Monokai",
 }
